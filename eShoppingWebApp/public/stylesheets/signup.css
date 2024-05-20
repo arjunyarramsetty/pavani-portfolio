@@ -1,0 +1,15 @@
+#openeyepwd,#closedeyepwd{
+    position: absolute;
+    top: 883px;
+    left: 957px;
+
+}
+#openeyecon,#closedeyecon{
+    position: absolute;
+    top: 960px;
+    left: 957px;
+
+}
+#closedeyepwd,#closedeyecon{
+    display:none;
+}
